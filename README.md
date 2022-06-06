@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **amberrauth/amberrauth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey there 👋
+
+### About Me :
+
+- I'm the Senior Technical Project Manager at Butterfly Network
+
+- I help teams manage their work.    
+   
+- How to reach me: arauth@butterflynetworkinc.gom
+   
+---
+   
+### My Hobbies : 
+
+- Spending time with my family.
+
+- Being outdoors.  
+
+- Reading books.
