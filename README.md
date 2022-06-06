@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey there 👋
+
+### About Me :
+
+- I'm the Senior Technical Project Manager at Butterfly Network
+
+- I help teams manage their work.    
+   
+- How to reach me: arauth@butterflynetworkinc.gom
+   
+---
+   
+### My Hobbies : 
+
+- Spending time with my family.
+
+- Being outdoors.  
+
+- Reading books.
